@@ -1,2 +1,5 @@
-# DHBW-Mannheim-WI2024SEA-Docker
-DHBW-Mannheim-WI2024SEA-Docker
+`docker compose build`
+
+`docker compose up`
+
+`docker compose down`
